@@ -51,7 +51,7 @@ def general_info_user(name_parameter, age_parameter, phone_number_parameter,
     if additional_information:
         print("Дополнительная информация: ", additional_information_parameter)
 
-
+# функция вывода информации о предпринимателе
 def аbout_the_company(PSRNSP_parameter, ITN_parameter,
                       payment_account_parameter, my_bank_parameter,
                       BIC_parameter, corr_account_parameter):
